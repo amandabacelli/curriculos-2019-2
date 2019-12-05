@@ -1,0 +1,86 @@
+{
+    "nome_completo":"Amanda Souza Macedo Bacelli",
+    "o_que_eu_quero":"Busco resolver problemas alheios através da tecnologia, mais especificamente em desenvolvimento backend",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/amanda-s-m-bacelli",
+    "link_github":"https://github.com/amandabacelli",
+    "email": "amanda.sted@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou alguem que gosta de saber um pouco de tudo, quanto mais informações, melhores serão minhas escolhas.",
+        "Costumo ser muito curiosa e saber o porquê de tudo, sempre busco ver o lado bom da situação e focar em resolver o problema atual, não buscar a causa imediatamente, mas pensar com calma", 
+        "Sou Engenheira de Produção de formação e possuo 7 anos de experiência na área de processos e qualidade e atualmente trabalho com Qualidade de Software (QA Automação de testes)", 
+        "Gosto de jogar jogos online, assistir anime, ler livros, gosto de gatos, resolver problemas e jogar tenis de mesa"
+         
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "QA Automação de testes",
+            "empresa":"Inmetrics",
+            "periodo":"Ago/2019 a atual",
+            "atividades_desenvolvidas": "Automação de casos de testes funcionais web utilizando tecnologia Java, Selenium Web Driver, Cucumber.",
+            "link": "https://www.inmetrics.com.br/"
+        },
+        {
+            "cargo_funcao": "Coordenador de Qualidade",
+            "empresa":"BTX Geologia e Meio Ambiente",
+            "periodo":"Dez/2012 a Jun/2019",
+            "atividades_desenvolvidas": "Mapeamento de processos, elaboração de fluxogramas, organogramas; controle estatistico de processos; implantação de ISO QUalidade",
+            "link":"http://www.btx.com.br/"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Desenvolvedor Back End - JavaScript ",
+            "instituicao":"reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de programação; Estruturas de repetição e condicionais; Construção de API com MVC; Construção de banco de dados não relacional (NoSQL) MongoDB utilizando ROBO 3T; Requisições CRUD html - Postman; Tecnologias: JavaScript, NodeJS, Postman, Visual Studio Code"
+        },
+        {
+            "curso": "Engenharia de Produção",
+            "instituicao":"Universidade São Judas Tadeu",
+            "periodo":"Jan/2012 a Dez/2018",
+            "resumo_conhecimentos_aprendidos": ""
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de Javascript",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+        },
+        {
+            "interesse_evento_curso": "Curso ES6",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+    ]
+}
